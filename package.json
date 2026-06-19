@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "travel-explorer",
   "private": true,
   "version": "0.0.0",
@@ -29,20 +28,5 @@
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^17.6.0",
     "vite": "^8.0.12"
-=======
-  "name": "travelbackend",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "json-server --watch db.json --host 0.0.0.0 --port $PORT"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "json-server": "^0.17.4"
->>>>>>> 2888a992e1880e69b1f043405181c2635d91f7ac
   }
 }
