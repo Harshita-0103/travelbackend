@@ -5,9 +5,9 @@ import Destinations from "../pages/Destinations";
 import DestinationDetails from "../pages/DestinationDetails";
 import AddDestination from "../pages/AddDestination";
 import EditDestination from "../pages/EditDestination";
-import Register from "../Pages/Register";
-import Login from "../Pages/Login";
-import Logout from "../Pages/Logout";
+import Register from "../pages/Register";
+import Login from "../pages/Login";
+import Logout from "../pages/Logout";
 import ProtectedRoute from "./ProtectedRoute";
 import Favorites from "../pages/Favorites";
 
