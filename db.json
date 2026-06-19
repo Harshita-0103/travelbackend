@@ -122,6 +122,10 @@
       "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952",
       "availability": "24/7 Emergency Response"
     }
+<<<<<<< HEAD
   ],
   "$schema": "./node_modules/json-server/schema.json"
+=======
+  ]
+>>>>>>> 2888a992e1880e69b1f043405181c2635d91f7ac
 }
